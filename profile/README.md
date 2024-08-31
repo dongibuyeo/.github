@@ -62,10 +62,10 @@ http://3.36.59.109:8080/swagger-ui/index.html 에서 API 확인 가능
 2. React Query : staleTime 설정으로 데이터 캐싱 & API호출 최적화 및 React Query를 이용한 서버 상태관리
 
 ### Backend
-1. 사용자의 소비 내역 추적 후 점수 부여를 위해 SSAFY OPEN API 호출 시점에 AOP를 적용하였습니다.
-2. 챌린지 종료 후 사용자에게 상금을 분배하기 위해 스케줄링과 배치 작업을 수행하였습니다.
-3. 각 챌린지 별 채팅방을 만들기 위해 STOMP와 Pub/Sub 패턴을 활용하였습니다.
-4. Slack의 WebHook을 활용하여 당첨자 정보를 Slack Message로 전송하였습니다.
+1. 사용자의 소비 내역 추적 후 점수 부여를 위해 SSAFY OPEN API 호출 시점에 AOP를 적용
+2. 챌린지 종료 후 사용자에게 상금을 분배하기 위해 스케줄링과 배치 작업을 수행
+3. 각 챌린지 별 채팅방을 만들기 위해 STOMP와 Pub/Sub 패턴을 활용
+4. Slack의 WebHook을 활용하여 당첨자 정보를 Slack Message로 전송
 
 
 ## 멤버 소개
