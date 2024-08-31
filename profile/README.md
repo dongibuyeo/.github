@@ -32,22 +32,25 @@
 - 각 챌린지 종료 시점, FEVER TIME에 사용자에게 FCM 알림 전송
 - 경품을 받을 사용자 정보를 Slack Message로 전송하여 투명성 제공
 
+## 설계
 
-## 시스템 아키텍처
+### 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/43841537-53ea-4e56-a7c9-87d967188447)
 
-## DB ERD
+### DB ERD
 ![image](https://github.com/user-attachments/assets/e47e4d62-4975-4be6-b0af-432b978ef976)
 
-## Figma
+### Figma
 ![image](https://github.com/user-attachments/assets/82a1d35b-7b28-40e6-a624-663f540c4424)
 
 https://www.figma.com/design/CB2ygoHVjrfq8N5BrAp9R7/Untitled?node-id=0-1&node-type=CANVAS&t=QxaMCzCNPb1F3ktf-0
 
-## API (배포 서버 확인)
+## 결과물(배포 및 빌드)
+
+### API (배포 서버 확인)
 http://3.36.59.109:8080/swagger-ui/index.html 에서 API 확인 가능
 
-## Frontend 빌드
+### Frontend 빌드
 ```
 1. npm run build
 2. .next folder export
@@ -59,6 +62,7 @@ http://3.36.59.109:8080/swagger-ui/index.html 에서 API 확인 가능
 |<img src="https://img.shields.io/badge/react-F05138?style=for-the-badge&logo=React&logoColor=white"><br><img src="https://img.shields.io/badge/typescript-F1007E?style=for-the-badge&logo=typescript"><br><img src="https://img.shields.io/badge/nextjs-F1007E?style=for-the-badge"><br><img src="https://img.shields.io/badge/reactquery-2396F3?style=for-the-badge&logo=reactquery&logoColor=white">|<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><br><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br><img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br><img src="https://img.shields.io/badge/stomp-010101?style=for-the-badge">|<img src="https://img.shields.io/badge/amazonrds-569A31?style=for-the-badge&logo=amazonrds&logoColor=white"><br><img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"><br><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br><img src="https://img.shields.io/badge/slack-2496ED?style=for-the-badge&logo=slack&logoColor=white"><br><img src="https://img.shields.io/badge/firebase-2496ED?style=for-the-badge&logo=firebase&logoColor=white">|
 
 ## 구현적 특징
+
 ### Frontend
 1. Next.js : 웹뷰 페이지 초기 로딩시간 단축과 SEO를 고려한 모달 설계 및 최적화
 2. React Query : staleTime 설정으로 데이터 캐싱 & API호출 최적화 및 React Query를 이용한 서버 상태관리
