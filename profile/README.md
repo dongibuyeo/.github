@@ -60,4 +60,5 @@
 |:----:|:----:|:----:|:----:|:----:|
 |Frontend|Frontend|Frontend|Backend|Backend|
 |[@s0ojin](https://github.com/s0ojin)|[@yoonha97](https://github.com/yoonha97)|[@kwakseongjae](https://github.com/kwakseongjae)|[@jinjoo-lab](https://github.com/jinjoo-lab)|[@yeondori](https://github.com/yeondori)|
- | <img src = "image/JIN.JPG" width ="120" height = "150"> | <img src = "image/아이유3.png" width ="120" height = "150">| <img src = "image/MR_YEON2.jpg" width ="120" height = "150">| <img src = "image/SIUU.jpeg" width ="120" height = "150">| <img src = "image/aul.jpg" width ="120" height = "150">|
+ | <img src = "image/JIN.JPG" width ="120" height = "150"> | <img src = "image/아이유3.png" width ="120" height = "150">| ![image](https://github.com/user-attachments/assets/ef45be79-0342-4d18-bd78-bf86388824d4)
+ width ="120" height = "150">| <img src = "image/SIUU.jpeg" width ="120" height = "150">| <img src = "image/aul.jpg" width ="120" height = "150">|
