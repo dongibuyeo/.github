@@ -40,7 +40,7 @@
 ![image](https://github.com/user-attachments/assets/e47e4d62-4975-4be6-b0af-432b978ef976)
 
 ## Figma
-![image](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FCB2ygoHVjrfq8N5BrAp9R7%2FUntitled%3Fnode-id%3D26-114%26t%3D03PD3EWonzMMko4r-0)
+![image](https://www.figma.com/design/CB2ygoHVjrfq8N5BrAp9R7/Untitled?node-id=0-1&node-type=CANVAS&t=QxaMCzCNPb1F3ktf-0)
 
 ## API (배포 서버 확인)
 http://3.36.59.109:8080/swagger-ui/index.html 에서 API 확인 가능
