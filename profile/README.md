@@ -55,8 +55,8 @@ http://3.36.59.109:8080/swagger-ui/index.html 에서 API 확인 가능
 
 ## 구현적 특징
 ### Frontend
-1. Web화면을 APP으로 보내는 과정에 있어 느린 속도 개선을 위해 NEXT.js 사용.
-2. PWA를 활용하여 APP 제공.
+1. Next.js : 웹뷰 페이지 초기 로딩시간 단축과 SEO를 고려한 모달 설계 및 최적화
+2. React Query : staleTime 설정으로 데이터 캐싱 & API호출 최적화 및 React Query를 이용한 서버 상태관리
 
 ### Backend
 1. 사용자의 소비 내역 추적 후 점수 부여를 위해 SSAFY OPEN API 호출 시점에 AOP를 적용하였습니다.
