@@ -46,7 +46,7 @@
 
 ## 구현적 특징
 ### Frontend
-1. Web화면을 APP으로 보내는 과정에 있어 느린 속도 개선을 위해 NEXT.js 사용.
+1. Web화면을 APP으로 보내는 과정에 있어 느린 속도 개선을 위해 NEXT.js 사용.
 2. PWA를 활용하여 APP 제공.
 
 ### Backend
