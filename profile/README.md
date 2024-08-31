@@ -39,6 +39,9 @@
 ## DB ERD
 ![image](https://github.com/user-attachments/assets/e47e4d62-4975-4be6-b0af-432b978ef976)
 
+## API
+http://3.36.59.109:8080/swagger-ui/index.html 에서 API 확인 가능
+
 ## 사용 기술
 |Frontend|Backend|Infra/DevOps|
 |:---:|:---:|:---:|
