@@ -46,12 +46,14 @@
 
 ## 구현적 특징
 ### Frontend
-1. 그룹원들간의 실시간 위치 공유를 위해 WebSocket과 RabbitMQ pub/sub를 사용했다.
-2. Naver와 T-MAP API를 사용하여 목적지에 대한 보행자와 자동차 경로를 제공한다.
+1. Web화면을 APP으로 보내는 과정에 있어 느린 속도 개선을 위해 NEXT.js 사용.
+2. PWA를 활용하여 APP 제공.
 
 ### Backend
-1. 그룹원들간의 실시간 위치 공유를 위해 WebSocket과 RabbitMQ pub/sub를 사용했다.
-2. Naver와 T-MAP API를 사용하여 목적지에 대한 보행자와 자동차 경로를 제공한다.
+1. 사용자의 소비 내역 추적 후 점수 부여를 위해 SSAFY OPEN API 호출 시점에 AOP를 적용하였습니다.
+2. 챌린지 종료 후 사용자에게 상금을 분배하기 위해 스케줄링과 배치 작업을 수행하였습니다.
+3. 각 챌린지 별 채팅방을 만들기 위해 STOMP와 Pub/Sub 패턴을 활용하였습니다.
+4. Slack의 WebHook을 활용하여 당첨자 정보를 Slack Message로 전송하였습니다.
 
 
 ## 멤버 소개
